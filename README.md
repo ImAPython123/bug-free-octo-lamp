@@ -1,2 +1,2 @@
 # bug-free-octo-lamp
-Morning
+import pygame
